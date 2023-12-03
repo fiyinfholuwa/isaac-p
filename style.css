@@ -269,6 +269,7 @@ section {
 
 #about {
   position: relative;
+  margin-top: 50px;
 }
 
 .about-containers {
@@ -438,6 +439,9 @@ footer p {
 
 @media only screen and (max-width: 600px) {
   #contact{
-    margin-top: 50px;
+    margin-top: 20px;
+  }
+  #about{
+    margin-top: 10px;
   }
 }
